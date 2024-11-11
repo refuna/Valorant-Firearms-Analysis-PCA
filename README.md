@@ -1,5 +1,3 @@
-# Valorant-Firearms-Analysis-PCA
-
 # Valorant Firearms Analysis using PCA
 
 ## Project Description
